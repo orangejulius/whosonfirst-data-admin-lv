@@ -9,7 +9,6 @@
     "geom:bbox":"24.103181,56.909713,24.103181,56.909713",
     "geom:latitude":56.909713,
     "geom:longitude":24.103181,
-    "gn:id":"",
     "iso:country":"LV",
     "lbl:bbox":"24.098181,56.904713,24.108181,56.914713",
     "lbl:latitude":56.909713,
@@ -104,10 +103,7 @@
         }
     ],
     "wof:id":85907789,
-    "wof:lang":[
-        "unk"
-    ],
-    "wof:lastmodified":1582313190,
+    "wof:lastmodified":1603243824,
     "wof:name":"Ziepniekkalns",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"24.037486,56.931514,24.037486,56.931514",
     "geom:latitude":56.931514,
     "geom:longitude":24.037486,
-    "gn:id":"",
     "iso:country":"LV",
     "lbl:bbox":"24.032486,56.926514,24.042486,56.936514",
     "lbl:latitude":56.931514,
@@ -101,10 +100,7 @@
         }
     ],
     "wof:id":85907809,
-    "wof:lang":[
-        "unk"
-    ],
-    "wof:lastmodified":1582313191,
+    "wof:lastmodified":1603243824,
     "wof:name":"Pleskodale",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

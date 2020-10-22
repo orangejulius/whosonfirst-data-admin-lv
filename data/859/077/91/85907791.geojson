@@ -9,7 +9,6 @@
     "geom:bbox":"24.054874,56.914292,24.054874,56.914292",
     "geom:latitude":56.914292,
     "geom:longitude":24.054874,
-    "gn:id":"",
     "iso:country":"LV",
     "lbl:bbox":"24.049874,56.909292,24.059874,56.919292",
     "lbl:latitude":56.914292,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85907791,
-    "wof:lang":[
-        "unk"
-    ],
-    "wof:lastmodified":1582313190,
+    "wof:lastmodified":1603243824,
     "wof:name":"Ozolciems",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

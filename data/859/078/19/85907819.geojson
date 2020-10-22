@@ -9,7 +9,6 @@
     "geom:bbox":"24.173584,56.972604,24.173584,56.972604",
     "geom:latitude":56.972604,
     "geom:longitude":24.173584,
-    "gn:id":"",
     "iso:country":"LV",
     "lbl:bbox":"24.168584,56.967604,24.178584,56.977604",
     "lbl:latitude":56.972604,
@@ -86,10 +85,7 @@
         }
     ],
     "wof:id":85907819,
-    "wof:lang":[
-        "unk"
-    ],
-    "wof:lastmodified":1582313191,
+    "wof:lastmodified":1603243824,
     "wof:name":"Teika",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

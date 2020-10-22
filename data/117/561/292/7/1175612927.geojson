@@ -128,7 +128,6 @@
     "wd:wordcount":74,
     "wof:belongsto":[
         102191581,
-        101847115,
         85633279,
         85685885
     ],
@@ -144,17 +143,20 @@
         "qs_pg:id":124655
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7506a290f13a26cc93d652592d7b9015",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633279,
-            "locality_id":101847115,
+            "locality_id":1175612927,
             "region_id":85685885
         }
     ],
     "wof:id":1175612927,
-    "wof:lastmodified":1566599001,
+    "wof:lastmodified":1603243830,
     "wof:name":"Broc\u0113ni",
     "wof:parent_id":85685885,
     "wof:placetype":"locality",

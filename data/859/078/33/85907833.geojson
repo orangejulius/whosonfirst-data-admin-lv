@@ -9,7 +9,6 @@
     "geom:bbox":"24.121068,56.96315,24.121068,56.96315",
     "geom:latitude":56.96315,
     "geom:longitude":24.121068,
-    "gn:id":"",
     "iso:country":"LV",
     "lbl:latitude":56.96315,
     "lbl:longitude":24.121068,
@@ -83,10 +82,7 @@
         }
     ],
     "wof:id":85907833,
-    "wof:lang":[
-        "unk"
-    ],
-    "wof:lastmodified":1582313190,
+    "wof:lastmodified":1603243824,
     "wof:name":"Ganibas",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

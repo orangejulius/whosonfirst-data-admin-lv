@@ -9,7 +9,6 @@
     "geom:bbox":"24.186609,56.910535,24.186609,56.910535",
     "geom:latitude":56.910535,
     "geom:longitude":24.186609,
-    "gn:id":"",
     "iso:country":"LV",
     "lbl:bbox":"24.181609,56.905535,24.191609,56.915535",
     "lbl:latitude":56.910535,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85907793,
-    "wof:lang":[
-        "unk"
-    ],
-    "wof:lastmodified":1582313190,
+    "wof:lastmodified":1603243824,
     "wof:name":"Kengarags",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

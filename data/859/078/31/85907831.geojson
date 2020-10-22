@@ -9,7 +9,6 @@
     "geom:bbox":"24.134338,56.973373,24.134338,56.973373",
     "geom:latitude":56.973373,
     "geom:longitude":24.134338,
-    "gn:id":"",
     "iso:country":"LV",
     "lbl:latitude":56.973373,
     "lbl:longitude":24.134338,
@@ -87,10 +86,7 @@
         }
     ],
     "wof:id":85907831,
-    "wof:lang":[
-        "unk"
-    ],
-    "wof:lastmodified":1582313191,
+    "wof:lastmodified":1603243824,
     "wof:name":"Pilsetas",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

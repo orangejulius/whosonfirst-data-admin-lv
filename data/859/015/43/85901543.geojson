@@ -9,7 +9,6 @@
     "geom:bbox":"23.769725,56.967044,23.769725,56.967044",
     "geom:latitude":56.967044,
     "geom:longitude":23.769725,
-    "gn:id":"",
     "iso:country":"LV",
     "lbl:latitude":56.967044,
     "lbl:longitude":23.769725,
@@ -101,10 +100,7 @@
         }
     ],
     "wof:id":85901543,
-    "wof:lang":[
-        "unk"
-    ],
-    "wof:lastmodified":1582313190,
+    "wof:lastmodified":1603243823,
     "wof:name":"R\u012bgas J\u016brmala",
     "wof:parent_id":101751787,
     "wof:placetype":"neighbourhood",

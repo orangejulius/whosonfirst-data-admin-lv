@@ -128,7 +128,6 @@
     "wd:wordcount":127,
     "wof:belongsto":[
         102191581,
-        101847133,
         85633279,
         85685999
     ],
@@ -144,12 +143,12 @@
         {
             "continent_id":102191581,
             "country_id":85633279,
-            "locality_id":101847133,
+            "locality_id":1175612925,
             "region_id":85685999
         }
     ],
     "wof:id":1175612925,
-    "wof:lastmodified":1566599002,
+    "wof:lastmodified":1603243830,
     "wof:name":"Balo\u017ei",
     "wof:parent_id":85685999,
     "wof:placetype":"locality",

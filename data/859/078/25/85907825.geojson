@@ -9,7 +9,6 @@
     "geom:bbox":"24.097449,56.979256,24.097449,56.979256",
     "geom:latitude":56.979256,
     "geom:longitude":24.097449,
-    "gn:id":"",
     "iso:country":"LV",
     "lbl:bbox":"24.092449,56.974256,24.102449,56.984256",
     "lbl:latitude":56.979256,
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85907825,
-    "wof:lang":[
-        "unk"
-    ],
-    "wof:lastmodified":1582313191,
+    "wof:lastmodified":1603243824,
     "wof:name":"Vejzaksala",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

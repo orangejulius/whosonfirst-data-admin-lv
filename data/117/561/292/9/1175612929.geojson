@@ -105,7 +105,6 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
-        101913043,
         85633279,
         85685855
     ],
@@ -116,17 +115,20 @@
         "wd:id":"Q372999"
     },
     "wof:country":"LV",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"103694ffc3483f4c8fbdc3ef1873ee5d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
             "country_id":85633279,
-            "locality_id":101913043,
+            "locality_id":1175612929,
             "region_id":85685855
         }
     ],
     "wof:id":1175612929,
-    "wof:lastmodified":1566599001,
+    "wof:lastmodified":1603243830,
     "wof:name":"Aglona",
     "wof:parent_id":85685855,
     "wof:placetype":"locality",

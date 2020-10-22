@@ -9,7 +9,6 @@
     "geom:bbox":"24.059541,56.968388,24.059541,56.968388",
     "geom:latitude":56.968388,
     "geom:longitude":24.059541,
-    "gn:id":"",
     "iso:country":"LV",
     "lbl:bbox":"24.054541,56.963388,24.064541,56.973388",
     "lbl:latitude":56.968388,
@@ -95,10 +94,7 @@
         }
     ],
     "wof:id":85901527,
-    "wof:lang":[
-        "unk"
-    ],
-    "wof:lastmodified":1582313190,
+    "wof:lastmodified":1603243823,
     "wof:name":"Ilgeciems",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

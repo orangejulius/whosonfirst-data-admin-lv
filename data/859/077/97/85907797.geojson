@@ -9,7 +9,6 @@
     "geom:bbox":"24.137764,56.940259,24.137764,56.940259",
     "geom:latitude":56.940259,
     "geom:longitude":24.137764,
-    "gn:id":"",
     "iso:country":"LV",
     "lbl:bbox":"24.132764,56.935259,24.142764,56.945259",
     "lbl:latitude":56.940259,
@@ -119,10 +118,7 @@
         }
     ],
     "wof:id":85907797,
-    "wof:lang":[
-        "unk"
-    ],
-    "wof:lastmodified":1582313190,
+    "wof:lastmodified":1603243824,
     "wof:name":"Maskavas Forstate",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

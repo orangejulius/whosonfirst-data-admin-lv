@@ -9,7 +9,6 @@
     "geom:bbox":"24.120324,56.995568,24.120324,56.995568",
     "geom:latitude":56.995568,
     "geom:longitude":24.120324,
-    "gn:id":"",
     "iso:country":"LV",
     "lbl:bbox":"24.115324,56.990568,24.125324,57.000568",
     "lbl:latitude":56.995568,
@@ -101,10 +100,7 @@
         }
     ],
     "wof:id":85907823,
-    "wof:lang":[
-        "unk"
-    ],
-    "wof:lastmodified":1582313191,
+    "wof:lastmodified":1603243824,
     "wof:name":"Sarkandaugava",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

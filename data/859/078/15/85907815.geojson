@@ -9,7 +9,6 @@
     "geom:bbox":"24.181289,56.958616,24.181289,56.958616",
     "geom:latitude":56.958616,
     "geom:longitude":24.181289,
-    "gn:id":"",
     "iso:country":"LV",
     "lbl:bbox":"24.176289,56.953616,24.186289,56.963616",
     "lbl:latitude":56.958616,
@@ -98,10 +97,7 @@
         }
     ],
     "wof:id":85907815,
-    "wof:lang":[
-        "unk"
-    ],
-    "wof:lastmodified":1582313191,
+    "wof:lastmodified":1603243824,
     "wof:name":"Purvciems",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

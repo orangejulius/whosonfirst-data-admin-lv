@@ -9,7 +9,6 @@
     "geom:bbox":"24.12173,56.931793,24.12173,56.931793",
     "geom:latitude":56.931793,
     "geom:longitude":24.12173,
-    "gn:id":"",
     "iso:country":"LV",
     "lbl:bbox":"24.11673,56.926793,24.12673,56.936793",
     "lbl:latitude":56.931793,
@@ -128,10 +127,7 @@
         }
     ],
     "wof:id":85907827,
-    "wof:lang":[
-        "unk"
-    ],
-    "wof:lastmodified":1582313190,
+    "wof:lastmodified":1603243824,
     "wof:name":"Zakusala",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

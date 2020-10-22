@@ -9,7 +9,6 @@
     "geom:bbox":"23.772225,56.97025,23.772225,56.97025",
     "geom:latitude":56.97025,
     "geom:longitude":23.772225,
-    "gn:id":"",
     "iso:country":"LV",
     "lbl:bbox":"23.767225,56.96525,23.777225,56.97525",
     "lbl:latitude":56.97025,
@@ -109,10 +108,7 @@
         }
     ],
     "wof:id":85901523,
-    "wof:lang":[
-        "unk"
-    ],
-    "wof:lastmodified":1582313190,
+    "wof:lastmodified":1603243823,
     "wof:name":"Dubulti",
     "wof:parent_id":101751787,
     "wof:placetype":"neighbourhood",

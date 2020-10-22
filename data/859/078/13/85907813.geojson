@@ -9,7 +9,6 @@
     "geom:bbox":"24.104408,56.972529,24.104408,56.972529",
     "geom:latitude":56.972529,
     "geom:longitude":24.104408,
-    "gn:id":"",
     "iso:country":"LV",
     "lbl:bbox":"24.099408,56.967529,24.109408,56.977529",
     "lbl:latitude":56.972529,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85907813,
-    "wof:lang":[
-        "unk"
-    ],
-    "wof:lastmodified":1582313191,
+    "wof:lastmodified":1603243824,
     "wof:name":"Petersala",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",

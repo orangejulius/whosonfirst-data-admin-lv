@@ -9,7 +9,6 @@
     "geom:bbox":"24.148245,56.959893,24.148245,56.959893",
     "geom:latitude":56.959893,
     "geom:longitude":24.148245,
-    "gn:id":"",
     "iso:country":"LV",
     "lbl:bbox":"24.143245,56.954893,24.153245,56.964893",
     "lbl:latitude":56.959893,
@@ -101,10 +100,7 @@
         }
     ],
     "wof:id":85907829,
-    "wof:lang":[
-        "unk"
-    ],
-    "wof:lastmodified":1582313191,
+    "wof:lastmodified":1603243824,
     "wof:name":"Grizinkalns",
     "wof:parent_id":101751789,
     "wof:placetype":"neighbourhood",
